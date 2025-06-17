@@ -1,0 +1,1 @@
+print("BotTelegram v 1.0 alpha")
